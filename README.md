@@ -107,21 +107,21 @@ test
   <img src="images/screenshots/Jenkins.PNG">
 </p>
 
-## <img width="4%" title="Allure Report" src="images/logo/Allure_Report.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/012-SergeevSS90-unit13-Wildberries_tests/24/allure/)
+## <img width="4%" title="Allure Report" src="images/logo/Allure_Report.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/C12-setich5-hw13_vacancy_project/8/allure/)
 
-### :pushpin: Главная страница Allure-отчета
+### :shield: Главная страница Allure-отчета
 
 <p align="center">
 <img title="Allure Overview" src="images/screenshots/allure_overview.PNG">
 </p>
 
-### :pushpin: Страница с тестами
+### :shield: Страница с тестами
 
 <p align="center">
 <img title="Allure Behaviors" src="images/screenshots/allure_behaviors.PNG">
 </p>
 
-### :pushpin: Основной дашборд
+### :shield: Основной дашборд
 
 <p align="center">
 <img title="Allure Overview Dashboard" src="images/screenshots/allure_overview_dashboard.PNG">
@@ -140,6 +140,3 @@ test
 <p align="center">
   <img title="Selenoid Video" src="images/gif/selenoid_video.gif">
 </p>
-
-:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
-:blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
