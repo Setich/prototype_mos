@@ -140,7 +140,7 @@ public class MoscowLibraryServiceTest extends TestBase {
             booksSearchPage.searchBook("Противостояние");
         });
         step("Проверка количества найденых книг", () -> {
-            searchResultsPage.numberOfInstancesFound("Найдено 18 варианта");
+            searchResultsPage.numberOfInstancesFound("Найдено 974 варианта");
         });
         step("Проверка отображения книги в поисковой выдаче", () -> {
             searchResultsPage.checkingTheRequiredBook("Противостояние: [роман: в 2 т. ]. Т. 1. Т. 1");
